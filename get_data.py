@@ -13,7 +13,7 @@ from indic_transliteration import sanscript
 from indic_transliteration.sanscript import transliterate
 
 # Config
-NUM_TRAIN = 100_000
+NUM_TRAIN = 10_000
 NUM_VAL   = 1_000
 SEED_TRAIN = 42
 SEED_VAL   = 123
