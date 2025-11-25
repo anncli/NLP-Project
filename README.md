@@ -1,4 +1,6 @@
-# COMS W4705 Final Project
+# Evaluating Machine Translation Using Devanagari vs. Romanized Hindi Script
+
+COMS W4705 Final Project
 
 ### Contributors
 Ann Li, Shaina Sahu, Advita Sharma
