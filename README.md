@@ -5,6 +5,8 @@ COMS W4705 Final Project
 ### Contributors
 Ann Li, Shaina Sahu, Advita Sharma
 
+The core parts of our code can be found in project.ipynb.
+
 ### References
 Dataset Used: https://huggingface.co/datasets/cfilt/iitb-english-hindi
 
